@@ -1,0 +1,9 @@
+{
+  "language": "solidity",
+  "printWidth": 1100,
+  "tabWidth": 2,
+  "useTabs": false,
+  "singleQuote": false,
+  "bracketSpacing": true,
+  "explicitTypes": "always"
+}
